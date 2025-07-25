@@ -29,9 +29,6 @@ const Hero = () => {
             <Button1 href="#productos" size="lg">
               Conoce Nuestros Productos
             </Button1>
-            <button className="text-white border border-white/30 px-8 py-3 rounded-full hover:bg-white/10 transition-all duration-300 backdrop-blur-sm">
-              Ver Video
-            </button>
           </div>
         </div>
       </div>
